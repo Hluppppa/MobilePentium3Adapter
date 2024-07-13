@@ -3,6 +3,8 @@ An attempt to recreate an adapter for Pentium 3 mobile processors to socket 370 
 ![alt text](https://github.com/Hluppppa/MobilePentium3Adapter/blob/main/Pictures/pcb_front.jpg)
 ![alt text](https://github.com/Hluppppa/MobilePentium3Adapter/blob/main/Pictures/pcb_back.jpg)
 
+Now you can install XBOX-Original's CPU in normal desktop :D
+
 Core Voltage (VCC) table:
 | VID3 | VID2 | VID1 | VID0 | VCC  |
 | ----| ----| ----| ----| ---- |
