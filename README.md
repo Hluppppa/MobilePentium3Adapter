@@ -27,3 +27,7 @@
 ВНИМЕНИЕ! Данный адаптер всё еще в разработке и на данный момент пока не тестировался!
 
 Made with KiCad 12.05.2024
+
+Links:
+https://download.intel.com/design/PentiumIII/datashts/24526408.pdf
+https://datasheet.octopart.com/KC80526LY500256SL4JP-Intel-datasheet-125284.pdf
